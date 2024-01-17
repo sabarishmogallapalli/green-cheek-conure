@@ -24,17 +24,17 @@ export const linkInformation = [
     {
         "icon":BIO_LINK_NAME,
         "title":capitalize(BIO_LINK_NAME),
-        "href":"/"+BIO_LINK_NAME
+        "href":"/green-cheek-conure/"+BIO_LINK_NAME
     },
     {
         "icon":PROJECTS_LINK_NAME,
         "title":capitalize(PROJECTS_LINK_NAME),
-        "href":"/"+PROJECTS_LINK_NAME
+        "href":"/green-cheek-conure/"+PROJECTS_LINK_NAME
     },
     {
         "icon":CONTACT_LINK_NAME,
         "title":capitalize(CONTACT_LINK_NAME),
-        "href":"/"+CONTACT_LINK_NAME
+        "href":"/green-cheek-conure/"+CONTACT_LINK_NAME
     },
 
     /*
