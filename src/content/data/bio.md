@@ -1,5 +1,5 @@
 ---
-slug: "/bio"
+slug: "/green-cheek-conure/bio"
 title: "Who is Tim Plette?"
 page: "bio"
 ---
